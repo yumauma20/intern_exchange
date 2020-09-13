@@ -1,6 +1,7 @@
 # セットアップ
 
 docker-compose build
+
 docker-compose up -d
 
 localhost:80 トップページ
