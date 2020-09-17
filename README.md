@@ -3,6 +3,10 @@
 - docker-compose build
 - docker-compose up -d
 
+- docker-compose exec php composer install
+
+.env.exampleファイルをコピーして.envファイルを作成
+
 - localhost:80 トップページ
 - localhost:8080 phpMyAdmin
 
